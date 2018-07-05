@@ -22,6 +22,17 @@
   font-size: large;
 }
 
+#particles-js{
+  position:absolute;
+  width: 100%;
+  height: 100%;
+  background-color: #103557;
+  background-image: url("");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 50% 50%;
+} 
+
 @keyframes App-logo-spin {
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
